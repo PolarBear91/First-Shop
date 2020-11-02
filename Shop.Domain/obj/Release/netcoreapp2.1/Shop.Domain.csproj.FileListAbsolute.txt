@@ -1,0 +1,8 @@
+C:\Users\Мишка\Desktop\Guitar Shop\Shop.Domain\bin\Release\netcoreapp2.1\Shop.Domain.deps.json
+C:\Users\Мишка\Desktop\Guitar Shop\Shop.Domain\bin\Release\netcoreapp2.1\Shop.Domain.dll
+C:\Users\Мишка\Desktop\Guitar Shop\Shop.Domain\bin\Release\netcoreapp2.1\Shop.Domain.pdb
+C:\Users\Мишка\Desktop\Guitar Shop\Shop.Domain\obj\Release\netcoreapp2.1\Shop.Domain.csprojAssemblyReference.cache
+C:\Users\Мишка\Desktop\Guitar Shop\Shop.Domain\obj\Release\netcoreapp2.1\Shop.Domain.AssemblyInfoInputs.cache
+C:\Users\Мишка\Desktop\Guitar Shop\Shop.Domain\obj\Release\netcoreapp2.1\Shop.Domain.AssemblyInfo.cs
+C:\Users\Мишка\Desktop\Guitar Shop\Shop.Domain\obj\Release\netcoreapp2.1\Shop.Domain.dll
+C:\Users\Мишка\Desktop\Guitar Shop\Shop.Domain\obj\Release\netcoreapp2.1\Shop.Domain.pdb

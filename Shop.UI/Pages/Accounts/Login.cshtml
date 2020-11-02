@@ -1,0 +1,17 @@
+﻿@page
+@model Shop.UI.Pages.Account.LoginModel
+@{
+}
+
+    <form method="post">
+
+        <nav class="level">
+            <div class="control level-left has-text-centered ">
+                <input class="input" type="text" placeholder="admin" asp-for="Input.Username" />
+                <input class="input" type="text" placeholder="password" asp-for="Input.Password" />
+            </div>
+        </nav>
+
+            <input type="submit" name="name" value="Sign in" />
+
+    </form>
